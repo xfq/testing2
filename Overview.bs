@@ -1,0 +1,11 @@
+<pre class=metadata>
+Title: Streams
+Editor: Test
+Status: LS
+Shortname: streams
+Abstract: to low-level I/O primitives.
+</pre>
+
+<p>Test paragraph 1.</p>
+
+<p>Test paragraph 2.</p>
