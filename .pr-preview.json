@@ -1,6 +1,6 @@
 {
-    "src_file": "index.html",
-    "type": "respec",
+    "src_file": "Overview.bs",
+    "type": "bikeshed",
     "params": {
         "md-foo": "bar"
     }
