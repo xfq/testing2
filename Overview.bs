@@ -8,4 +8,4 @@ Abstract: Lead the World Wide Web to its full potential.
 
 <p>Test paragraph 1.</p>
 
-<!-- <p>Test paragraph 2.</p> -->
+<p>Test paragraph 2.</p>
