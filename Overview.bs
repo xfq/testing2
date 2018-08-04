@@ -6,10 +6,6 @@ Shortname: yaws
 Abstract: Lead the World Wide Web to its full potential.
 </pre>
 
-<pre class="include">
-path: sections/introduction.include
-</pre>
-
 <p>Test paragraph 1.</p>
 
 <!-- <p>Test paragraph 2.</p> -->
